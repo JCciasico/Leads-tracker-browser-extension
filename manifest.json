@@ -4,6 +4,9 @@
     "name": "Leads tracker",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "car-jcc.png"
-    }
+        "default_icon": "./asset/car-jcc.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
 }
